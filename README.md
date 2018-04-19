@@ -85,3 +85,4 @@ hash
 ```
 
 Hope you had fun hashing out the ship's inventory!
+<p data-visibility='hidden'>KWK-T1 My First Hash</p>
